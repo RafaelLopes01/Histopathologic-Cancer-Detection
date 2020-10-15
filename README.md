@@ -1,8 +1,8 @@
-# Redes Neurais - Detecção de Cancêr em Imagens
+# Redes Neurais - Detecção de Câncer em Imagens
 
-Projeto desenvolvido a partir de uma base de dados do [Kaggle](https://www.kaggle.com/), que se chama [histopathologic-cancer-detection](https://www.kaggle.com/c/histopathologic-cancer-detection), que é composta por 200 mil imagens para treinamento, 60 mil para teste e o objetivo é identificar a existência de cancêr nas imagens de microscópio.
+Projeto desenvolvido a partir de uma base de dados do [Kaggle](https://www.kaggle.com/), que se chama [histopathologic-cancer-detection](https://www.kaggle.com/c/histopathologic-cancer-detection), que é composta por 200 mil imagens para treinamento, 60 mil para teste e o objetivo é identificar a existência de câncer nas imagens de microscópio.
 
-Esse projeto eu desenvolvijunto com meu grupo para ser entregue no trabalho de conclusão do módulo de deep learning da minha pós graduação em Data Science.
+Esse projeto eu desenvolvi junto com meu grupo para ser entregue no trabalho de conclusão do módulo de deep learning da minha pós graduação em Data Science.
 
 ### Projeto
 Desenvolvemos uma rede neural convolucional (CNN) para classificação das imagens, utilizando Python, Tensorflow e o Keras.
